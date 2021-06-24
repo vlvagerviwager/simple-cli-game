@@ -1,0 +1,15 @@
+{
+  "name": "simple-cli-game",
+  "version": "1.0.0",
+  "description": "Simple Node.js command line game. ",
+  "main": "index.js",
+  "repository": "https://github.com/vlvagerviwager/simple-cli-game.git",
+  "author": "vlvagerviwager",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  },
+  "scripts": {
+    "play": "node index.js"
+  }
+}
